@@ -1,0 +1,18 @@
+body {
+    color: hotpink;
+}
+
+#logo {
+    max-width: 100%;
+}
+
+.menu-img {
+    max-width: 100%;
+    border-radius: 0.8rem;
+}
+
+button {
+    border-radius: 0.8rem;
+}
+
+
